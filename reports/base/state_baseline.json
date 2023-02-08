@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Alabama" : {
         "state": "Alabama",
         "slug": "alabama",
         "code": "AL",
@@ -18,7 +18,7 @@
         "twitter_url": "https://twitter.com/alabamagov",
         "facebook_url": "https://www.facebook.com/alabamagov"
     },
-    {
+    "Alaska": {
         "state": "Alaska",
         "slug": "alaska",
         "code": "AK",
@@ -37,7 +37,7 @@
         "twitter_url": "https://twitter.com/alaska",
         "facebook_url": "https://www.facebook.com/AlaskaLocalGovernments"
     },
-    {
+    "Arizona": {
         "state": "Arizona",
         "slug": "arizona",
         "code": "AZ",
@@ -56,7 +56,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Arkansas" : {
         "state": "Arkansas",
         "slug": "arkansas",
         "code": "AR",
@@ -75,7 +75,7 @@
         "twitter_url": "https://twitter.com/arkansasgov",
         "facebook_url": "https://www.facebook.com/Arkansas.gov"
     },
-    {
+    "California" : {
         "state": "California",
         "slug": "california",
         "code": "CA",
@@ -94,7 +94,7 @@
         "twitter_url": "https://twitter.com/cagovernment",
         "facebook_url": null
     },
-    {
+    "Colorado" : {
         "state": "Colorado",
         "slug": "colorado",
         "code": "CO",
@@ -113,7 +113,7 @@
         "twitter_url": "https://twitter.com/coloradogov",
         "facebook_url": "https://www.facebook.com/Colorado.gov"
     },
-    {
+    "Connecticut" : {
         "state": "Connecticut",
         "slug": "connecticut",
         "code": "CT",
@@ -132,7 +132,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Delaware" : {
         "state": "Delaware",
         "slug": "delaware",
         "code": "DE",
@@ -151,7 +151,7 @@
         "twitter_url": "https://twitter.com/delaware_gov",
         "facebook_url": "https://www.facebook.com/delaware.gov"
     },
-    {
+    "Florida" : {
         "state": "Florida",
         "slug": "florida",
         "code": "FL",
@@ -170,7 +170,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Georgia" : {
         "state": "Georgia",
         "slug": "georgia",
         "code": "GA",
@@ -189,7 +189,7 @@
         "twitter_url": "http://twitter.com/georgiagov",
         "facebook_url": "http://www.facebook.com/pages/georgiagov/29760668054"
     },
-    {
+    "Hawaii" : {
         "state": "Hawaii",
         "slug": "hawaii",
         "code": "HI",
@@ -208,7 +208,7 @@
         "twitter_url": "https://twitter.com/ehawaiigov",
         "facebook_url": "https://www.facebook.com/ehawaii.gov"
     },
-    {
+    "Idaho" : {
         "state": "Idaho",
         "slug": "idaho",
         "code": "ID",
@@ -227,7 +227,7 @@
         "twitter_url": "https://twitter.com/IDAHOgov",
         "facebook_url": null
     },
-    {
+    "Illinois" : {
         "state": "Illinois",
         "slug": "illinois",
         "code": "IL",
@@ -246,7 +246,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Indiana" : {
         "state": "Indiana",
         "slug": "indiana",
         "code": "IN",
@@ -265,7 +265,7 @@
         "twitter_url": "https://twitter.com/in_gov",
         "facebook_url": "https://www.facebook.com/IndianaGovernment"
     },
-    {
+    "Iowa" : {
         "state": "Iowa",
         "slug": "iowa",
         "code": "IA",
@@ -284,7 +284,7 @@
         "twitter_url": "https://twitter.com/IAGOVTWEETS",
         "facebook_url": null
     },
-    {
+    "Kansas" : {
         "state": "Kansas",
         "slug": "kansas",
         "code": "KS",
@@ -303,7 +303,7 @@
         "twitter_url": "http://www.twitter.com/ksgovernment",
         "facebook_url": "http://www.facebook.com/pages/Topeka-KS/Kansasgov-Kansas-Government-Online/52068474220"
     },
-    {
+    "Kentucky" : {
         "state": "Kentucky",
         "slug": "kentucky",
         "code": "KY",
@@ -322,7 +322,7 @@
         "twitter_url": "https://twitter.com/kygov",
         "facebook_url": "https://www.facebook.com/kygov"
     },
-    {
+    "Louisiana" : {
         "state": "Louisiana",
         "slug": "louisiana",
         "code": "LA",
@@ -341,7 +341,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Maine" : {
         "state": "Maine",
         "slug": "maine",
         "code": "ME",
@@ -360,7 +360,7 @@
         "twitter_url": "https://twitter.com/mainegov_news",
         "facebook_url": "http://www.facebook.com/pages/Augusta-ME/Mainegov/98519328240"
     },
-    {
+    "Maryland" : {
         "state": "Maryland",
         "slug": "maryland",
         "code": "MD",
@@ -379,7 +379,7 @@
         "twitter_url": "https://twitter.com/statemaryland",
         "facebook_url": "https://www.facebook.com/statemaryland"
     },
-    {
+    "Massachusetts" : {
         "state": "Massachusetts",
         "slug": "massachusetts",
         "code": "MA",
@@ -398,7 +398,7 @@
         "twitter_url": "http://twitter.com/massgov",
         "facebook_url": "https://www.facebook.com/massgov"
     },
-    {
+    "Michigan" : {
         "state": "Michigan",
         "slug": "michigan",
         "code": "MI",
@@ -417,7 +417,7 @@
         "twitter_url": "https://twitter.com/migov",
         "facebook_url": "https://www.facebook.com/MIgovernment"
     },
-    {
+    "Minnesota" : {
         "state": "Minnesota",
         "slug": "minnesota",
         "code": "MN",
@@ -436,7 +436,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Mississippi" : {
         "state": "Mississippi",
         "slug": "mississippi",
         "code": "MS",
@@ -455,7 +455,7 @@
         "twitter_url": "https://twitter.com/msdotgov",
         "facebook_url": "https://www.facebook.com/msdotgov"
     },
-    {
+    "Missouri" : {
         "state": "Missouri",
         "slug": "missouri",
         "code": "MO",
@@ -474,7 +474,7 @@
         "twitter_url": "https://twitter.com/MoGov",
         "facebook_url": "https://www.facebook.com/mogov"
     },
-    {
+    "Montana" : {
         "state": "Montana",
         "slug": "montana",
         "code": "MT",
@@ -493,7 +493,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Nebraska" : {
         "state": "Nebraska",
         "slug": "nebraska",
         "code": "NE",
@@ -512,7 +512,7 @@
         "twitter_url": "https://twitter.com/Nebraskagov",
         "facebook_url": "https://www.facebook.com/nebraska.gov"
     },
-    {
+    "Nevada" : {
         "state": "Nevada",
         "slug": "nevada",
         "code": "NV",
@@ -531,7 +531,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "New Hampshire" : {
         "state": "New Hampshire",
         "slug": "new-hampshire",
         "code": "NH",
@@ -550,7 +550,7 @@
         "twitter_url": "https://twitter.com/nhgov",
         "facebook_url": null
     },
-    {
+    "New Jersey" : {
         "state": "New Jersey",
         "slug": "new-jersey",
         "code": "NJ",
@@ -569,7 +569,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "New Mexico" : {
         "state": "New Mexico",
         "slug": "new-mexico",
         "code": "NM",
@@ -588,7 +588,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "New York" : {
         "state": "New York",
         "slug": "new-york",
         "code": "NY",
@@ -607,7 +607,7 @@
         "twitter_url": "https://twitter.com/nygov",
         "facebook_url": null
     },
-    {
+    "North Carolina" : {
         "state": "North Carolina",
         "slug": "north-carolina",
         "code": "NC",
@@ -626,7 +626,7 @@
         "twitter_url": "https://twitter.com/NCdotGov",
         "facebook_url": null
     },
-    {
+    "North Dakota" : {
         "state": "North Dakota",
         "slug": "north-dakota",
         "code": "ND",
@@ -645,7 +645,7 @@
         "twitter_url": "https://twitter.com/ExperienceND",
         "facebook_url": "https://www.facebook.com/ExperienceND"
     },
-    {
+    "Ohio" : {
         "state": "Ohio",
         "slug": "ohio",
         "code": "OH",
@@ -664,7 +664,7 @@
         "twitter_url": "https://twitter.com/ohgov",
         "facebook_url": null
     },
-    {
+    "Oklahoma" : {
         "state": "Oklahoma",
         "slug": "oklahoma",
         "code": "OK",
@@ -683,7 +683,7 @@
         "twitter_url": "https://twitter.com/okgov",
         "facebook_url": "https://www.facebook.com/okgov"
     },
-    {
+    "Oregon" : {
         "state": "Oregon",
         "slug": "oregon",
         "code": "OR",
@@ -702,7 +702,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Pennsylvania" : {
         "state": "Pennsylvania",
         "slug": "pennsylvania",
         "code": "PA",
@@ -721,7 +721,7 @@
         "twitter_url": "https://www.facebook.com/visitPA",
         "facebook_url": "https://twitter.com/visitPA"
     },
-    {
+    "Rhode Island" : {
         "state": "Rhode Island",
         "slug": "rhode-island",
         "code": "RI",
@@ -740,7 +740,7 @@
         "twitter_url": "https://twitter.com/rigov",
         "facebook_url": "https://www.facebook.com/RIgov-Rhode-Island-Government-Online-24056655991"
     },
-    {
+    "South Carolina" : {
         "state": "South Carolina",
         "slug": "south-carolina",
         "code": "SC",
@@ -759,7 +759,7 @@
         "twitter_url": "https://twitter.com/scgov",
         "facebook_url": "http://www.facebook.com/pages/SCgov/12752057990"
     },
-    {
+    "South Dakota" : {
         "state": "South Dakota",
         "slug": "south-dakota",
         "code": "SD",
@@ -778,7 +778,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Tennessee" : {
         "state": "Tennessee",
         "slug": "tennessee",
         "code": "TN",
@@ -797,7 +797,7 @@
         "twitter_url": "https://twitter.com/TNVacation",
         "facebook_url": "https://www.facebook.com/tnvacation"
     },
-    {
+    "Texas" : {
         "state": "Texas",
         "slug": "texas",
         "code": "TX",
@@ -816,7 +816,7 @@
         "twitter_url": "https://twitter.com/texasgov",
         "facebook_url": "http://www.facebook.com/Texas.gov"
     },
-    {
+    "Utah" : {
         "state": "Utah",
         "slug": "utah",
         "code": "UT",
@@ -835,7 +835,7 @@
         "twitter_url": "https://twitter.com/UtahGov",
         "facebook_url": "https://www.facebook.com/utahgov"
     },
-    {
+    "Vermont" : {
         "state": "Vermont",
         "slug": "vermont",
         "code": "VT",
@@ -854,7 +854,7 @@
         "twitter_url": "https://twitter.com/vermontgov",
         "facebook_url": "https://www.facebook.com/MyVermont"
     },
-    {
+    "Virginia" : {
         "state": "Virginia",
         "slug": "virginia",
         "code": "VA",
@@ -873,7 +873,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Washington" : {
         "state": "Washington",
         "slug": "washington",
         "code": "WA",
@@ -892,7 +892,7 @@
         "twitter_url": "https://twitter.com/wagov",
         "facebook_url": ""
     },
-    {
+    "West Virginia" : {
         "state": "West Virginia",
         "slug": "west-virginia",
         "code": "WV",
@@ -911,7 +911,7 @@
         "twitter_url": "https://twitter.com/wvgov",
         "facebook_url": "https://www.facebook.com/wvgov"
     },
-    {
+    "Wisconsin" : {
         "state": "Wisconsin",
         "slug": "wisconsin",
         "code": "WI",
@@ -930,7 +930,7 @@
         "twitter_url": null,
         "facebook_url": null
     },
-    {
+    "Wyoming" : {
         "state": "Wyoming",
         "slug": "wyoming",
         "code": "WY",
@@ -949,4 +949,4 @@
         "twitter_url": null,
         "facebook_url": null
     }
-]
+}
