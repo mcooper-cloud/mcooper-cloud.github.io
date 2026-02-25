@@ -30,7 +30,7 @@ body {
 
     border-radius:  0.25em;
 
-    background-image: url("../www/img/ux/swatch_ur.png");
+    background-image: url("../img/ux/swatch_ur.png");
     background-position: top right;
     background-repeat: no-repeat;
 }
@@ -105,27 +105,27 @@ body {
 }
 
 .subsection div.title.identity {
-    background-image: url("../www/img/icons/identity.png");
+    background-image: url("../img/icons/identity.png");
     background-size: 30px;
 }
 
 .subsection div.title.cloud {
-    background-image: url("../www/img/icons/cloud_security.png");
+    background-image: url("../img/icons/cloud_security.png");
     background-size: 40px;
 }
 
 .subsection div.title.data {
-    background-image: url("../www/img/icons/data_security.png");
+    background-image: url("../img/icons/data_security.png");
     background-size: 30px;
 }
 
 .subsection div.title.customer {
-    background-image: url("../www/img/icons/customer_first.png");
+    background-image: url("../img/icons/customer_first.png");
     background-size: 40px;
 }
 
 .subsection div.title.knowledge {
-    background-image: url("../www/img/icons/knowledge.png");
+    background-image: url("../img/icons/knowledge.png");
     background-position: right center;
     background-size: 50px;
     text-align : right;
@@ -134,7 +134,7 @@ body {
 }
 
 .subsection div.title.skills {
-    background-image: url("../www/img/icons/skills.png");
+    background-image: url("../img/icons/skills.png");
     background-size: 40px;
     background-color: #edf7f7;
     background-position: 15px;
@@ -142,7 +142,7 @@ body {
 }
 
 .subsection div.title.spotlight {
-    background-image: url("../www/img/icons/spotlight.png");
+    background-image: url("../img/icons/spotlight.png");
     background-size: 40px;
     background-color: #edf7f7;
     background-position: 15px;
@@ -164,7 +164,7 @@ ul.checklist li {
     padding: 10px;
     padding-left: 30px;
     margin-left: -30px;
-    background-image: url("../www/img/icons/checkbox.png");
+    background-image: url("../img/icons/checkbox.png");
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 20px;
@@ -175,7 +175,7 @@ ul.arrowlist li {
     padding: 10px;
     padding-left: 30px;
     margin-left: -30px;
-    background-image: url("../www/img/icons/arrow_rt.png");
+    background-image: url("../img/icons/arrow_rt.png");
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 20px;
