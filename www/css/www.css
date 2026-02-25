@@ -106,7 +106,7 @@ body {
 
 .subsection div.title.identity {
     background-image: url("../img/icons/identity.png");
-    background-size: 30px;
+    background-size: 40px;
 }
 
 .subsection div.title.cloud {
@@ -116,7 +116,7 @@ body {
 
 .subsection div.title.data {
     background-image: url("../img/icons/data_security.png");
-    background-size: 30px;
+    background-size: 40px;
 }
 
 .subsection div.title.customer {
@@ -126,8 +126,7 @@ body {
 
 .subsection div.title.knowledge {
     background-image: url("../img/icons/knowledge.png");
-    background-position: right center;
-    background-size: 50px;
+    background-size: 40px;
     text-align : right;
     padding-left: 0;
     padding-right: 65px;
