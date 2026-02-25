@@ -1,2 +1,6 @@
+_drafts/
+_site/
 .DS_Store
-BIG/
+*.swp
+.jekyll-metadata
+TOO_BIG/
